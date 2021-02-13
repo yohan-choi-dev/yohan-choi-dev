@@ -2,13 +2,13 @@
 
 I'm a **full-stack developer** living in <img alt="Canada" src="https://www.flaticon.com/svg/static/icons/svg/323/323277.svg" width="13" /> **Toronto, Canada**.
 
-## Contacts
+# Contacts
 
 :sparkling_heart: Checkout my personal website: http://yohan-choi.com <br/>
 :e-mail: Contact me: [yohan.choi.dev](mailto:yohan.choi.dev) <br/>
 :necktie: My LinkedIn: https://www.linkedin.com/in/yohan-choi-dev/ <br/>
 
-## Skill Set
+# Skill Set
 
 ## Language
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
