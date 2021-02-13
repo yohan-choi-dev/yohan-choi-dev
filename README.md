@@ -5,7 +5,7 @@ I'm a **full-stack developer** living in <img alt="Canada" src="https://www.flat
 # Contacts
 
 :sparkling_heart: Checkout my personal website: http://yohan-choi.com <br/>
-:e-mail: Contact me: [yohan.choi.dev](mailto:yohan.choi.dev) <br/>
+:e-mail: Contact me: [yohan.choi.dev](mailto:yohan.choi.dev@gmail.com) <br/>
 :necktie: My LinkedIn: https://www.linkedin.com/in/yohan-choi-dev/ <br/>
 
 # Skill Set
