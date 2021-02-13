@@ -1,4 +1,4 @@
-### Hello, I'm Yohan 👋
+# Hello, I'm Yohan 👋
 
 I'm a **full-stack developer** living in <img alt="Canada" src="https://www.flaticon.com/svg/static/icons/svg/323/323277.svg" width="13" /> **Toronto, Canada**.
 
