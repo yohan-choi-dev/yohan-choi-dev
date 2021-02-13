@@ -10,7 +10,7 @@ I'm a **full-stack developer** living in <img alt="Canada" src="https://www.flat
 
 # Skill Set
 
-## Language
+## Languages
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -27,7 +27,7 @@ I'm a **full-stack developer** living in <img alt="Canada" src="https://www.flat
 
 <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 
-## Environment & Tools
+## Environments & Tools
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" /> <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img alt="Droplet" src="https://img.shields.io/badge/-Droplet-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" /> <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="nginx" src="https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white" /> <img alt="ngrok" src="https://img.shields.io/badge/-ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" /> 
 
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-DD3A0A?style=for-the-badge&logo=Postman&logoColor=white" /> <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white" />
